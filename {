@@ -1,0 +1,1 @@
+fetch(url).then(r= console.log('status', r.status); return r.text(); }).then(t= console.log('body', t.slice(0,200)); }).catch(e= console.error('err', e.message 
