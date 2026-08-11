@@ -1,12 +1,12 @@
 # Corretoras CVM
 
-AplicaÃ§Ã£o simples em Next.js + TypeScript para listar corretoras da CVM consumindo a API da Brasil API.
+Aplicação simples em Next.js + TypeScript para listar corretoras da CVM consumindo a API da Brasil API.
 
 ## Funcionalidades
 - Listagem de corretoras em cards
-- Busca por CNPJ, nome comercial ou razÃ£o social
+- Busca por CNPJ, nome comercial ou razão social
 - Tela de detalhes ao clicar em uma corretora
-- Interface em tons de rosa, com foco em simplicidade e boa experiÃªncia
+- Interface em tons de rosa, com foco em simplicidade e boa experiência
 
 ## Tecnologias
 - Next.js
@@ -17,7 +17,7 @@ AplicaÃ§Ã£o simples em Next.js + TypeScript para listar corretoras da CVM consum
 - Axios
 
 ## Como rodar
-1. Instale as dependÃªncias:
+1. Instale as dependências:
    ```bash
    npm install
    ```
@@ -30,5 +30,5 @@ AplicaÃ§Ã£o simples em Next.js + TypeScript para listar corretoras da CVM consum
    http://localhost:3000
    ```
 
-## ObservaÃ§Ã£o
-A API externa pode demorar um pouco para responder na primeira carga, entÃ£o a tela exibe um estado de carregamento enquanto isso acontece.
+## Observação
+A API externa pode demorar um pouco para responder na primeira carga, então a tela exibe um estado de carregamento enquanto isso acontece.
